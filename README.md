@@ -14,6 +14,5 @@ Given UCI_ML dataset on hand written digits, write a Naive bayes classifier to r
 
 MODEL: Multinomial NB and Gaussion NB 
 
-**TO BE DEPLOYED ON WEB IN NEXT UPDATE**
 
 DataSet Provided 
